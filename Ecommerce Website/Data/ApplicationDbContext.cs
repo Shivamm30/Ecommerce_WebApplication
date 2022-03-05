@@ -17,5 +17,8 @@ namespace Ecommerce_Website.Data
         public DbSet<ProductTypes> ProductTypes { get; set; }
         public DbSet<SpecialTag> SpecialTags { get; set; }
         public DbSet<Products> Products { get; set; }
+        public DbSet<Order> Order { get; set; }
+        public DbSet<OrderDetails> OrderDetails { get; set; }
+
     }
 }

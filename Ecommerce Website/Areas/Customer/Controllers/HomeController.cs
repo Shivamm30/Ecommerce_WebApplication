@@ -10,7 +10,7 @@ using Ecommerce_Website.Data;
 using Ecommerce_Website.Models;
 using Ecommerce_Website.Utility;
 
-namespace OnlineShop.Controllers
+namespace Ecommerce_Website.Controllers
 {
     [Area("Customer")]
 
